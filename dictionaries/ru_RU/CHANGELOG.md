@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.4.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-ru_ru@2.3.0...@cspell/dict-ru_ru@2.4.0) (2025-06-18)
+
+
+### Features
+
+* Ignore Forbidden Words ([#4289](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4289)) ([147e72b](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/147e72b3a2acbf54013fc46f36f18cb17b8d6ba7))
+
 ## [2.3.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-ru_ru@2.2.4...@cspell/dict-ru_ru@2.3.0) (2025-04-16)
 
 

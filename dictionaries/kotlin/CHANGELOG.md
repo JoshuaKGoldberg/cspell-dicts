@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.2.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-kotlin@1.1.0...@cspell/dict-kotlin@1.2.0) (2025-06-18)
+
+
+### Features
+
+* remove `enableFiletypes` ([#3996](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/3996)) ([6011700](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/6011700cc2d90edd2048f293fe2235b6212a805a))
+
 ## [1.1.0](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-kotlin@1.0.4...@cspell/dict-kotlin@1.1.0) (2025-01-08)
 
 

@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.1.15](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-docker@1.1.14...@cspell/dict-docker@1.1.15) (2025-06-18)
+
+
+### Updates and Bug Fixes
+
+* Add dind to docker ([#4270](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4270)) ([5948f26](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/5948f2614e4a18bb2d65c7e1f6137f9ac8e6c842))
+* add Docker-related words ([#4328](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4328)) ([915e125](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/915e125aed9f3cf80e85bb0c03ae6a0c93582b22))
+
 ## [1.1.14](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-docker@1.1.13...@cspell/dict-docker@1.1.14) (2025-05-03)
 
 

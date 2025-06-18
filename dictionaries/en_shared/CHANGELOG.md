@@ -1,5 +1,47 @@
 # Change Log
 
+## [1.0.36](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-en-shared@1.0.35...@cspell/dict-en-shared@1.0.36) (2025-06-18)
+
+
+### Updates and Bug Fixes
+
+* Add "succumber", "succumbence", and "succumbency" to the en_shared dictionary to complement the existing. ([#4184](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4184)) ([6c17fb1](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/6c17fb1919846e87bdcef04c40d5733c0365242c))
+* Add `unbundle` to English shared ([#4522](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4522)) ([cef32fa](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/cef32fa94cb737155d344dc069eac5549b347759))
+* add `unsized` to `en_shared` dictionary ([#4224](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4224)) ([aa188f2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/aa188f2073ceb58f31aa48630d11ad5358fdd060))
+* add additional words to en_shared ([#4092](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4092)) ([c7e43bc](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c7e43bc257e6e09f423bda5e9bd662e3131d0d98))
+* Add automotive-related words ([#4244](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4244)) ([8112eb8](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8112eb8fb2a9d31f344128ed5bb3f7bcd549a547))
+* Add back missing English words ([#4119](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4119)) ([22126fb](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/22126fb65d0d2edbb0a627a3a013a988de41bc49))
+* add bézier to dictionary ([#4282](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4282)) ([ca46765](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ca46765131a7c36202bd9c91b4cdd2c4d3bab290))
+* add common English acronyms ([#4371](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4371)) ([2062be7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2062be74ee4cfb52cbffcf9ceb092b39368e9a49))
+* Add more legacy words to en_GB-MIT ([#4385](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4385)) ([4e6394a](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/4e6394abd77cd65f9aa6dab5466b4ba2be0f2a71))
+* add the word "initialisms" to en_shared ([#4303](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4303)) ([9957ed8](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9957ed86c4042c148d34cd82802e354290424c37))
+* Add words from my project ([#3846](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/3846)) ([97282e6](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/97282e6f3e0022e5f527acbb5746a47dbb37d822))
+* add words to dictionary ([#4252](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4252)) ([a1b70e1](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a1b70e156c63cfe02e6a9d70d614da1894661906))
+* add words to shared-additional-words.txt ([#4145](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4145)) ([d61377a](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d61377a934835cfb1b6ed2d70fa4a9908d22f739))
+* **en_shared:** buildable ([#4105](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4105)) ([5e0544e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/5e0544ee55796ee84f479affe3a8080969bdb3d0))
+* english acronyms ([#4356](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4356)) ([bf7287d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/bf7287dc7353045d3a9c97e3975afdb0b7c23f4b))
+* English cleanup ([#4391](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4391)) ([3455b64](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/3455b64f9bd6f9c4a1f6d53e3cc84ea8d7d63e1f))
+* Workflow Bot -- Build Dictionaries ([#4019](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4019)) ([b116fdc](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b116fdcfa5f4e31f652891fd240058d5755e1950))
+* Workflow Bot -- Build Dictionaries ([#4106](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4106)) ([a6ce4a2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a6ce4a2891ecc574423a657f69814a809348f532))
+* Workflow Bot -- Build Dictionaries ([#4147](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4147)) ([c28c288](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c28c288859fd2c5fe17a10dbc0eb264ec6d14f46))
+* Workflow Bot -- Build Dictionaries ([#4182](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4182)) ([2eec6cd](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2eec6cda280ea293905f32830dcd19014aaa1293))
+* Workflow Bot -- Build Dictionaries ([#4235](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4235)) ([cb96bfd](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/cb96bfd8b81f38b62af1b87704dfb2de8f651cc9))
+* Workflow Bot -- Build Dictionaries ([#4246](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4246)) ([80d32f5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/80d32f5f2cfef5bb8eac8af7c3f218861109a1ef))
+* Workflow Bot -- Build Dictionaries ([#4257](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4257)) ([ccd5d14](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ccd5d149f3c705da32692e4298ab6ea7bae31cea))
+* Workflow Bot -- Build Dictionaries ([#4287](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4287)) ([9ab559e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9ab559e17e9d5ffba2408d95d985c13bf2739d2a))
+* Workflow Bot -- Build Dictionaries ([#4305](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4305)) ([10ad522](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/10ad5222455afc0a5f8fb1a3233c8055fa044697))
+* Workflow Bot -- Build Dictionaries ([#4364](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4364)) ([7c216ed](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7c216edb421a3b5b58577ec091fdce83fe0d4b85))
+* Workflow Bot -- Build Dictionaries ([#4373](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4373)) ([6bf448a](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/6bf448abae2c3c2999e761c7a335276573eebce9))
+* Workflow Bot -- Build Dictionaries ([#4386](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4386)) ([2e1d877](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2e1d8776dcf8e93bbd9b130db05559916ad81c0b))
+* Workflow Bot -- Build Dictionaries ([#4406](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4406)) ([7e02e36](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7e02e36dd735dd9d28639f230301cd057715873d))
+* Workflow Bot -- Build Dictionaries ([#4412](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4412)) ([5568803](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/5568803c88620b0e80d2048911222c627accafa7))
+* Workflow Bot -- Build Dictionaries ([#4521](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4521)) ([8c68505](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8c68505f0ccb0f762571485f845cf9476303f57e))
+
+
+### Code Refactoring
+
+* consolidate English shared `-ise` words into `shared-additional-words-ise.txt` ([#4397](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4397)) ([36a1d61](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/36a1d612042a7e1d707a1c10c6c59c948fb43034))
+
 ## [1.0.35](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.34...@cspell/dict-en-shared@1.0.35) (2025-06-10)
 
 

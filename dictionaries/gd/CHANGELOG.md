@@ -1,5 +1,18 @@
 # Change Log
 
+## [1.1.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-gd@1.0.1...@cspell/dict-gd@1.1.0) (2025-06-18)
+
+
+### Features
+
+* Create Gaelic Dictionary ([#4223](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4223)) ([9cef652](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9cef6521982daf079651545c9e278a57c4fa7d47))
+
+
+### Updates and Bug Fixes
+
+* fix package.json information ([cf96cac](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/cf96cace738432c4fb006460f5ca0f1b79e38a8b))
+* Workflow Bot -- Build Dictionaries ([#4227](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4227)) ([2e483d7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2e483d7e9a7f030e124bb7f1cde620f57c26b57f))
+
 ## [1.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-gd@1.0.0...@cspell/dict-gd@1.0.1) (2025-05-03)
 
 

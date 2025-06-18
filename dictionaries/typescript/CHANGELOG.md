@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.3.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-typescript@3.2.2...@cspell/dict-typescript@3.3.0) (2025-06-18)
+
+
+### Features
+
+* remove `enableFiletypes` ([#3996](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/3996)) ([6011700](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/6011700cc2d90edd2048f293fe2235b6212a805a))
+
+
+### Updates and Bug Fixes
+
+* add missing 'nodenext' to dict/typescript.txt ([#4539](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4539)) ([272d3a5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/272d3a5a0136e42dd5bb1c6cb93448471721f4db))
+* add Vue-related terms to typescript ecosystem dictionary ([#4532](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4532)) ([94c1446](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/94c1446c9e9d29a638e6dcf42804014e3819ce65))
+* Ignore BitInt literal hex numbers. ([#4238](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4238)) ([db56427](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/db56427bdaaa3bea91a49347fbe393432e2e4731))
+
 ## [3.2.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-typescript@3.2.1...@cspell/dict-typescript@3.2.2) (2025-06-11)
 
 

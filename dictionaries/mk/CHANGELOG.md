@@ -1,5 +1,12 @@
 # Change Log
 
+## [1.0.2](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-mk@1.0.1...@cspell/dict-mk@1.0.2) (2025-06-18)
+
+
+### Updates and Bug Fixes
+
+* Fix dictionary package info ([#3956](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/3956)) ([090c088](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/090c0881c3a66e946fe49baf16e54c4b1231cceb))
+
 ## [1.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-mk@1.0.0...@cspell/dict-mk@1.0.1) (2024-12-30)
 
 

@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.9](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-cpp@6.0.8...@cspell/dict-cpp@6.0.9) (2025-06-18)
+
+
+### Updates and Bug Fixes
+
+* Add memo and nano to software terms ([#4165](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4165)) ([aaf8998](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/aaf899837c3f0fd8df32a679b956bc7ad99a2666))
+* correct 'definition' spellings in cpp.txt ([#4131](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4131)) ([51bb994](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/51bb994b90a19dd05a7c309f75a5620a8d6de1bd))
+* Make sure `ocurred` isn't valid ([#4274](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4274)) ([d695b45](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d695b45b83f4baa4345b0c81b9756635d145086d))
+* Remove misspelling `equivelent ` from CPP ([#4226](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4226)) ([0958747](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/09587475e516ee864782abf89f256d1b430618c9))
+* Remove misspelling from cpp dict ([#4111](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4111)) ([443473e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/443473e150629d6b77c3c91a97a95dbf27ba0d67))
+* Workflow Bot -- Build Dictionaries ([#4113](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4113)) ([42d7438](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/42d74384a16825fd0877bd9f426f1d2133687d79))
+* Workflow Bot -- Build Dictionaries ([#4142](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4142)) ([494c36d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/494c36d42e908dc8f8d6b55f9c4f3da147942126))
+* Workflow Bot -- Build Dictionaries ([#4277](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4277)) ([21e4337](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/21e4337229752202d29654a6e1c2487373137bb0))
+
 ## [6.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@6.0.7...@cspell/dict-cpp@6.0.8) (2025-04-09)
 
 

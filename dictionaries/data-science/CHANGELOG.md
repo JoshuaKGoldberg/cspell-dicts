@@ -1,5 +1,15 @@
 # Change Log
 
+## [2.0.9](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-data-science@2.0.8...@cspell/dict-data-science@2.0.9) (2025-06-18)
+
+
+### Updates and Bug Fixes
+
+* Add additional terms to spelling lists from `GoogleCloudPlatform/generative-ai` ([#4013](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4013)) ([ed34213](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ed342139c37a50c7fd35ea6b15e54947076686c7))
+* Add pandas words ([#4243](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4243)) ([110f925](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/110f925229c1726277bc8e20fae623ed4648458d))
+* Workflow Bot -- Build Dictionaries ([#4016](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4016)) ([ced2e71](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ced2e7193013a4011555a690171431d4cab6734f))
+* Workflow Bot -- Build Dictionaries ([#4246](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4246)) ([80d32f5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/80d32f5f2cfef5bb8eac8af7c3f218861109a1ef))
+
 ## [2.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-data-science@2.0.7...@cspell/dict-data-science@2.0.8) (2025-04-03)
 
 
