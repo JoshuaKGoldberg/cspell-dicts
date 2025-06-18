@@ -1,5 +1,24 @@
 # Change Log
 
+## [1.1.11](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-people-names@1.1.10...@cspell/dict-people-names@1.1.11) (2025-06-18)
+
+
+### Updates and Bug Fixes
+
+* Add additional terms to spelling lists from `GoogleCloudPlatform/generative-ai` ([#4013](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4013)) ([ed34213](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ed342139c37a50c7fd35ea6b15e54947076686c7))
+* Update people-names dictionary ([#4004](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4004)) ([a81047e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a81047e7d73f16d981227cca331a0de811088162))
+* Update people-names dictionary ([#4466](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4466)) ([24c4469](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/24c446930c8d238c1e98f373fd5e8d69896520ab))
+* Workflow Bot -- Build Dictionaries ([#4006](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4006)) ([2a7aad6](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2a7aad6d22c8540674fa6bb56f0caff43ad1888f))
+* Workflow Bot -- Build Dictionaries ([#4016](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4016)) ([ced2e71](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ced2e7193013a4011555a690171431d4cab6734f))
+* Workflow Bot -- Build Dictionaries ([#4469](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4469)) ([89b0f94](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/89b0f9471aff20ceaa44279cc586b7b1c038af97))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @internal/en-freq bumped to 1.0.1
+
 ## [1.1.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-people-names@1.1.9...@cspell/dict-people-names@1.1.10) (2025-05-20)
 
 

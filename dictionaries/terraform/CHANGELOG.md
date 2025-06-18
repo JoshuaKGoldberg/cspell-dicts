@@ -1,5 +1,17 @@
 # Change Log
 
+## [1.2.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-terraform@1.1.1...@cspell/dict-terraform@1.2.0) (2025-06-18)
+
+
+### Features
+
+* remove `enableFiletypes` ([#3996](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/3996)) ([6011700](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/6011700cc2d90edd2048f293fe2235b6212a805a))
+
+
+### Updates and Bug Fixes
+
+* Make sure files of type `tf` use `terraform` dict ([#4137](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4137)) ([a6e896b](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a6e896ba4775c11dfac83cd61e991e1a01a21692))
+
 ## [1.1.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-terraform@1.1.0...@cspell/dict-terraform@1.1.1) (2025-03-02)
 
 

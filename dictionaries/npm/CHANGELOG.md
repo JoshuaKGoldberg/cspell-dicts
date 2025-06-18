@@ -3,6 +3,49 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.3.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-npm@5.2.6...@cspell/dict-npm@5.3.0) (2025-06-18)
+
+
+### Features
+
+* add packages to npm ([#4281](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4281)) ([cc09989](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/cc0998990311482624081ace3acd9a325d275d8e))
+
+
+### Updates and Bug Fixes
+
+* add 'tsdown' ([#4313](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4313)) ([ebd7570](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ebd7570f2df3b1df656069091ce630fc99dad3a0))
+* add 'unbundle' ([#4518](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4518)) ([a651e8b](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a651e8bd8b9ffdff2f70176b1cebdeefd39aa29f))
+* add `neostandard` ([#4236](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4236)) ([7f01686](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7f0168689e18d8a463be4764866e43719408e782))
+* add attw, markdownlintignore, npmjs words ([#4210](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4210)) ([1a91661](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/1a916615490980c0d598b48379635a58ceb33a4f))
+* add casl to npm ([#4254](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4254)) ([29aa92a](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/29aa92ab4069ead0651a577332d50c298ae37c45))
+* add tool options to npm dictionary ([#4523](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4523)) ([5de90ba](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/5de90ba072ac6d1f4898c596ccb35f740902ffe2))
+* Workflow Bot -- Build Dictionaries ([#4212](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4212)) ([347217e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/347217e0493ac89335829185365f97148354f821))
+* Workflow Bot -- Build Dictionaries ([#4239](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4239)) ([0f45809](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/0f458090372e24af38251804e0b39e07a1105637))
+* Workflow Bot -- Build Dictionaries ([#4257](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4257)) ([ccd5d14](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ccd5d149f3c705da32692e4298ab6ea7bae31cea))
+* Workflow Bot -- Build Dictionaries ([#4286](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4286)) ([69da562](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/69da562bdbd13d9211fa1392b532565b1ea74735))
+* Workflow Bot -- Build Dictionaries ([#4459](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4459)) ([7e768c7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7e768c7e443745ab4b8d09bddf23312f3768f666))
+* Workflow Bot -- Build Dictionaries ([#4526](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4526)) ([3fcf71f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/3fcf71fd8e9dbfa5f15644daa4f09da1a1853316))
+* Workflow Bot -- Update Dictionaries ([#3984](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/3984)) ([ad39bc3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ad39bc3df59cd0fb63f7cc3a33eef319f55b01db))
+* Workflow Bot -- Update Dictionaries ([#3999](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/3999)) ([3419a00](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/3419a002312edac15d37eceec8324b3e6b787669))
+* Workflow Bot -- Update Dictionaries ([#4032](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4032)) ([70d7935](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/70d793554543519965bd776fc74b29f44854b9b3))
+* Workflow Bot -- Update Dictionaries ([#4042](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4042)) ([c13fdfc](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c13fdfc142fc5b9d9e0f014f5aa8553f509e3b76))
+* Workflow Bot -- Update Dictionaries ([#4068](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4068)) ([017ffc1](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/017ffc1e0adce44740abc9b12f7102ee369c79c7))
+* Workflow Bot -- Update Dictionaries ([#4093](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4093)) ([7a68882](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7a688823faf10ded46285ee03a64677c3d75bc11))
+* Workflow Bot -- Update Dictionaries ([#4121](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4121)) ([2c8e60d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2c8e60d98a652482024d61317ce7ba0850aa620e))
+* Workflow Bot -- Update Dictionaries ([#4140](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4140)) ([8a363ee](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8a363ee1c237eb4d3b5a2aaa7ea1662a308bbb97))
+* Workflow Bot -- Update Dictionaries ([#4154](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4154)) ([da3fe8a](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/da3fe8adcfc82a932537085d2aab45516295b330))
+* Workflow Bot -- Update Dictionaries ([#4175](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4175)) ([2a62b0d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2a62b0d9fd2af497dbf9beaf794ea7c20a93b325))
+* Workflow Bot -- Update Dictionaries ([#4194](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4194)) ([fb725da](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/fb725daa258cb63afd0a542dff7d7c6e40d838e0))
+* Workflow Bot -- Update Dictionaries ([#4217](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4217)) ([47bd3db](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/47bd3db52eedb736b5dbc770e77665cfd58e968e))
+* Workflow Bot -- Update Dictionaries ([#4263](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4263)) ([46190a2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/46190a2f94568616e153a78801597c19b0c87110))
+* Workflow Bot -- Update Dictionaries ([#4288](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4288)) ([d20b246](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d20b246cdcbf35eac79e6b2973d7e2f8d712a0ec))
+* Workflow Bot -- Update Dictionaries ([#4308](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4308)) ([d035f4a](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d035f4ad2ff8d063d74a0be800c60d8962fcd4e4))
+* Workflow Bot -- Update Dictionaries ([#4320](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4320)) ([af692c3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/af692c3057dcca19718ecdff36e18160b9bd3d12))
+* Workflow Bot -- Update Dictionaries ([#4382](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4382)) ([f35bbf0](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f35bbf048eb631963f62eece5843573a821103d5))
+* Workflow Bot -- Update Dictionaries ([#4462](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4462)) ([37ab5c4](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/37ab5c4d2759f9f76818c45b052955428a8f4635))
+* Workflow Bot -- Update Dictionaries ([#4481](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4481)) ([3c0b311](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/3c0b31118768e3d099138ed411120bfe18403eff))
+* Workflow Bot -- Update Dictionaries ([#4501](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4501)) ([cb7d315](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/cb7d31597bdd521e459962a0a8949924ba887a48))
+
 ## [5.2.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-npm@5.2.5...@cspell/dict-npm@5.2.6) (2025-06-10)
 
 

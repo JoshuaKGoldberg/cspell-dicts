@@ -3,6 +3,22 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.2.19](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-python@4.2.18...@cspell/dict-python@4.2.19) (2025-06-18)
+
+
+### Updates and Bug Fixes
+
+* Add memo and nano to software terms ([#4165](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4165)) ([aaf8998](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/aaf899837c3f0fd8df32a679b956bc7ad99a2666))
+* add tool names ([#4326](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4326)) ([67a6d10](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/67a6d1023d6f21edc2c1f553eac51da9c19cd2ee))
+* Workflow Bot -- Build Dictionaries ([#4333](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4333)) ([532adeb](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/532adeb899ce52bff9228d8532cb6efbe2061ffe))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cspell/dict-data-science bumped to 2.0.9
+
 ## [4.2.18](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.2.17...@cspell/dict-python@4.2.18) (2025-05-03)
 
 
