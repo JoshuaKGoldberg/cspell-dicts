@@ -3,6 +3,20 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.7](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-fullstack@3.2.6...@cspell/dict-fullstack@3.2.7) (2025-06-18)
+
+
+### Updates and Bug Fixes
+
+* add `nodenext` ([#4095](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4095)) ([b74262c](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b74262ce19c3ea8580268447467963b6147c1352))
+* **fullstack.txt:** changefreq ([#4081](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4081)) ([d901865](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d9018650b1c40c4595a54e7d99d2271f41c26bb1))
+* **fullstack.txt:** lastmod ([#4077](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4077)) ([f052f44](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f052f44f24e1af49983ceb18ebd5bbb1df0959b3))
+* **fullstack.txt:** urlset ([#4078](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4078)) ([6c0f808](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/6c0f808396da8a35d5df3303434dde22f2476b8d))
+* **fullstack:** pocketbase ([#4124](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4124)) ([d803864](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d803864add6015fed9c5a4b0e0e675eb3a1f88a7))
+* Workflow Bot -- Build Dictionaries ([#4082](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4082)) ([321f1ca](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/321f1cac9370e08bf843c5d1bca2d248ebbc7dc0))
+* Workflow Bot -- Build Dictionaries ([#4096](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4096)) ([ad6cf04](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ad6cf045d1d6d33ad02b8a177e01f1b46e7b11f0))
+* Workflow Bot -- Update Dictionaries ([#4121](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4121)) ([2c8e60d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2c8e60d98a652482024d61317ce7ba0850aa620e))
+
 ## [3.2.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-fullstack@3.2.5...@cspell/dict-fullstack@3.2.6) (2025-03-02)
 
 

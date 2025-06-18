@@ -3,6 +3,21 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.23](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-golang@6.0.22...@cspell/dict-golang@6.0.23) (2025-06-18)
+
+
+### Updates and Bug Fixes
+
+* add 'logrus' to common Go libraries dictionary ([#4513](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4513)) ([4062ed3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/4062ed3ba2f1f76272ba8fa1a4117a8179d39bab))
+* Add build-oriented words to golang ([#4260](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4260)) ([6341731](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/634173178186a1cc6797ce2eab58517ce909cb8a))
+* Add memo and nano to software terms ([#4165](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4165)) ([aaf8998](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/aaf899837c3f0fd8df32a679b956bc7ad99a2666))
+* Add more build-oriented words to golang ([#4269](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4269)) ([bf493eb](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/bf493eba7dfd5609d9ed52215b16a24f69d8cc47))
+* Add Msgf to golang ([#4261](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4261)) ([adf634e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/adf634e6f6861e42c52f7bd45c7960fc139e8a76))
+* Workflow Bot -- Build Dictionaries ([#4265](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4265)) ([d6b38b8](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d6b38b8de5eff9e1b596daaf242b9bf9c834603f))
+* Workflow Bot -- Build Dictionaries ([#4267](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4267)) ([560b73f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/560b73f8434074ffd7faa016e8a7e45245a1aa75))
+* Workflow Bot -- Build Dictionaries ([#4396](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4396)) ([e403efc](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e403efc5edc0c356d03e61fc62c78955baa7973e))
+* Workflow Bot -- Build Dictionaries ([#4507](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4507)) ([f1739a7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f1739a7b97a319e19680de5dea4b6790ba40d638))
+
 ## [6.0.22](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-golang@6.0.21...@cspell/dict-golang@6.0.22) (2025-06-10)
 
 

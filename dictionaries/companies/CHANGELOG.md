@@ -3,6 +3,30 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.3.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-companies@3.2.1...@cspell/dict-companies@3.3.0) (2025-06-18)
+
+
+### Features
+
+* add new companies ([#4367](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4367)) ([0d0b60f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/0d0b60f9f3d542c8ec3eb14e4bedb87085305dee))
+
+
+### Updates and Bug Fixes
+
+* add `Infisical` dicts ([#4046](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4046)) ([efdb5c5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/efdb5c5f029318b12e39f7946b40569a32683617))
+* Add additional terms to spelling lists from `GoogleCloudPlatform/generative-ai` ([#4013](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4013)) ([ed34213](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ed342139c37a50c7fd35ea6b15e54947076686c7))
+* add fonticons (fontawesome) to companies ([#4280](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4280)) ([c1fc864](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c1fc864a4b81222260c7a8dfa93ed30063e5959a))
+* Workflow Bot -- Build Dictionaries ([#4016](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4016)) ([ced2e71](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ced2e7193013a4011555a690171431d4cab6734f))
+* Workflow Bot -- Build Dictionaries ([#4048](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4048)) ([edbca9e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/edbca9e6445b519d4cb027518d1c47f146214ec9))
+* Workflow Bot -- Build Dictionaries ([#4286](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4286)) ([69da562](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/69da562bdbd13d9211fa1392b532565b1ea74735))
+* Workflow Bot -- Build Dictionaries ([#4383](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4383)) ([9e84dfc](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9e84dfcc64fac08bb5a6e92ccfc80121e069ff45))
+* Workflow Bot -- Update Dictionaries ([#4382](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4382)) ([f35bbf0](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f35bbf048eb631963f62eece5843573a821103d5))
+
+
+### Tests
+
+* Improve tests for Companies ([#4378](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4378)) ([62d03f1](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/62d03f1155a9f11e352e688e916dde7c5f233254))
+
 ## [3.2.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.2.0...@cspell/dict-companies@3.2.1) (2025-05-04)
 
 
