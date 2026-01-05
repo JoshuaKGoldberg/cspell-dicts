@@ -1,5 +1,15 @@
 # Changelog
 
+## [1.1.3](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-shell@1.1.2...@cspell/dict-shell@1.1.3) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* Add noninteractive ([#4887](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4887)) ([8d6b0a1](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8d6b0a119d6027bbd2fc88757deea7c507745570))
+* Add shell command words ([#4895](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4895)) ([d7e8e59](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d7e8e591c6726a66e67e6bf69fecaab544c2d3f2))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Workflow Bot -- Build Dictionaries ([#4901](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4901)) ([545c4d2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/545c4d265aa85c3f7a0e7761e29b8542b5f5b2c5))
+
 ## [1.1.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-shell@1.1.1...@cspell/dict-shell@1.1.2) (2025-10-26)
 
 

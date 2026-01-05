@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.4](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-typescript@3.2.3...@cspell/dict-typescript@3.2.4) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* add missing 'nodenext' to dict/typescript.txt ([#4539](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4539)) ([272d3a5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/272d3a5a0136e42dd5bb1c6cb93448471721f4db))
+* add Vue-related terms to typescript ecosystem dictionary ([#4532](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4532)) ([94c1446](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/94c1446c9e9d29a638e6dcf42804014e3819ce65))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [3.2.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-typescript@3.2.2...@cspell/dict-typescript@3.2.3) (2025-07-09)
 
 

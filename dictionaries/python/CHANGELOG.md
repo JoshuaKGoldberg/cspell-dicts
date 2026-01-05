@@ -3,6 +3,29 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.2.26](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-python@4.2.25...@cspell/dict-python@4.2.26) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* add `hstack` to `python` ([#4823](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4823)) ([c3250c6](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c3250c6fecabbe8e73eb2045865a233f38222b23))
+* add `meshgrid` to `python` and `data-science` ([#4822](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4822)) ([f6bfbc2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f6bfbc21a778be2b4d0d4ab9340317b72d4e1da5))
+* add `pyrefly` to `python` ([#4820](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4820)) ([242f370](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/242f3700da89fc2f586693c4cf3e7bf33902f18d))
+* add `reduceat` to `python` ([#4824](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4824)) ([7cf6246](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7cf6246a2d8998f252d3ab059ec43d8021d0d263))
+* Add Python words ([#4888](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4888)) ([0f06faf](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/0f06faf4255dc0fb2e7b56ce709c607c8e68d48c))
+* Add Python words ([#5001](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5001)) ([ec6906b](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ec6906bf2464bf70296e9d3d28382b968bd55fca))
+* add words related to software tools and python ([#4834](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4834)) ([7e903d3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7e903d32e6c631b127e72ef78bb8887503767a70))
+* Encorporate more sw dev terms ([#5116](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5116)) ([2a080b7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2a080b78f1cc164d75a897d89d4416fc84138b46))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Workflow Bot -- Build Dictionaries ([#4840](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4840)) ([3def534](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/3def534b2bdf1aac21d61276cfeb774112808ad0))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * dependencies
+    * @cspell/dict-data-science bumped to 2.0.14
+
 ## [4.2.25](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-python@4.2.24...@cspell/dict-python@4.2.25) (2026-01-03)
 
 
