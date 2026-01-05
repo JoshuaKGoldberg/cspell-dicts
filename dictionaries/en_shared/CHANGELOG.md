@@ -1,5 +1,30 @@
 # Change Log
 
+## [1.0.49](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-en-shared@1.0.48...@cspell/dict-en-shared@1.0.49) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* Add `unbundle` to English shared ([#4522](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4522)) ([cef32fa](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/cef32fa94cb737155d344dc069eac5549b347759))
+* Add a few English words ([#4655](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4655)) ([e035a38](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e035a388bfd73a6201a3c69b44f188af303ff1eb))
+* Add acronyms ([#4890](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4890)) ([569f0de](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/569f0deac0d178ebd57dd93adaf646c6760c65a7))
+* add Australian animals names to en_shared ([#4581](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4581)) ([aec1a8e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/aec1a8e26d85fa5f117052bbcd2af8066079c24e))
+* Add autocorrect terms to shared additional words ([#4923](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4923)) ([e24cd46](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e24cd46c5940c79940aeaf6682baf791d649dbc0))
+* Add automotive-related acronyms ([#5032](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5032)) ([6120b73](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/6120b73529e9a13a025e38297f270835d5fba6d5))
+* add disinvite  ([#4794](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4794)) ([7a41159](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7a411598cf80e50776de830a0a094a0d3fe661f3))
+* Add homoglyph ([#4861](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4861)) ([94fef8c](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/94fef8cc58de32a6fd650e7e71c2e713fd9f4a6f))
+* Add minor English words ([#4889](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4889)) ([8bc47d5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8bc47d54fa162a861bef7cfe16ad78ca27041b81))
+* add signal-processing acronyms ([#4917](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4917)) ([ae60acd](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ae60acd243812465eeeafcc986bc6229e1eb1843))
+* add software terms ([#4739](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4739)) ([0c0f942](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/0c0f942cd96b392c0273540c90c556f7e1ef73f3))
+* adding word "setpoint" ([#4874](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4874)) ([01f0d12](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/01f0d1265e15a35752b442b74964cfb0032e3ce5))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Remove `typw` from the English dictionary ([#4774](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4774)) ([b57f9a2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b57f9a2db71043ffa16f7c895fa8b82f39f5bb78))
+* Update README.md ([#4660](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+* Workflow Bot -- Build Dictionaries ([#4521](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4521)) ([8c68505](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8c68505f0ccb0f762571485f845cf9476303f57e))
+* Workflow Bot -- Build Dictionaries ([#4657](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4657)) ([f1dcc18](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f1dcc18e22e3d06ab438d46205d1b06dc622d5ee))
+* Workflow Bot -- Build Dictionaries ([#4878](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4878)) ([9395555](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9395555b191a632e8ec65a45e775790978f8dbb5))
+* Workflow Bot -- Build Dictionaries ([#4901](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4901)) ([545c4d2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/545c4d265aa85c3f7a0e7761e29b8542b5f5b2c5))
+
 ## [1.0.48](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-shared@1.0.47...@cspell/dict-en-shared@1.0.48) (2025-12-13)
 
 

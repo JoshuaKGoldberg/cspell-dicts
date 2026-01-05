@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.8](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-git@3.0.7...@cspell/dict-git@3.0.8) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* git - enable git dictionary in `.github` ([#4516](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4516)) ([be26a4d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/be26a4d167aa8e1c063868cc40963b3e06402b22))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [3.0.7](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-git@3.0.6...@cspell/dict-git@3.0.7) (2025-07-09)
 
 

@@ -22,6 +22,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.0.7](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-pt-pt@3.0.6...@cspell/dict-pt-pt@3.0.7) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update README.md ([#4660](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+
 ## [3.0.6](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-pt-pt@3.0.5...@cspell/dict-pt-pt@3.0.6) (2025-07-19)
 
 

@@ -3,6 +3,72 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [5.2.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-software-terms@5.1.19...@cspell/dict-software-terms@5.2.0) (2026-01-05)
+
+
+### Features
+
+* Add many spelling suggestions from "typos" ([#4542](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4542)) ([7cce1a4](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7cce1a4f6585f148befed8416d4e20df06d1f73c))
+
+
+### Updates and Bug Fixes
+
+* [software-tools] Add missing software related terms ([#4963](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4963)) ([8d57961](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8d579619d6d0202f7479e87e0f5d09519b606bf7))
+* [software-tools] Add missing software related terms ([#4966](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4966)) ([da1f4b5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/da1f4b58f7e32833c940a66c02b981f69275c132))
+* [software-tools] Add missing tools ([#4679](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4679)) ([f11bf97](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f11bf978bbc66b7377dcd3cce278a7ca65f5ab24))
+* [software-tools] Added IaC tools ([#4627](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4627)) ([4ee9981](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/4ee9981b0c663785ddc5fbde12f4ccb065411763))
+* add 'conventionalcommits' ([#4557](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4557)) ([758d091](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/758d091fdc146a5094974eba696d9f3f07491a85))
+* Add 'devContainers' to coding terms list ([#4798](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4798)) ([70e1a94](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/70e1a943caeee23b4741d646a689e10c48637ab3))
+* add 'Gerrit' to software tools dictionary ([#4510](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4510)) ([710a19e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/710a19ea972d2f32a58f9481a564af92306656f3))
+* add 'helm' and 'helmfile' to software tools dictionary ([#4515](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4515)) ([b63afb9](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b63afb92c543d29f7bccd7268e825bd7f9d730b4))
+* add 'Mailgun' to software services dictionary ([#4517](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4517)) ([89e7f7e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/89e7f7eb54a5bb80061996c8dea838932dd96694))
+* add 'MailHog' to software tools dictionary ([#4514](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4514)) ([d8e3582](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d8e3582e9c5aeb908a82193d24cef5fc7559a6d0))
+* add 'mdast' ([#4585](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4585)) ([c1472b3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c1472b324249a34026441a22263e7bffd4a021be))
+* Add 'ohmyzsh' and 'oh-my-zsh' to software tools list ([#4799](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4799)) ([0effc1f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/0effc1f0fb8d12df82e3d28305573be48ee09d17))
+* add 'OpenTofu' to software tools dictionary ([#4511](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4511)) ([e63ed94](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e63ed94bb30006be7b26281915c956555a55ac45))
+* add "Phabricator" and "Phorge" to `software-tools.txt` ([#4512](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4512)) ([5248da1](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/5248da1b5449cb4e0cb0e1805a56907574c4cf82))
+* add `Nushell` to `software-tools` ([#4826](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4826)) ([b25b06e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b25b06ed0bc955f104d9b4efef2070c9ed5511ee))
+* add `pixi` to `software-tools` ([#4821](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4821)) ([c885ae5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c885ae572437d6f50737f4417662be3ceda521ab))
+* add `SquashFS` to `softwareTerms` ([#4835](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4835)) ([e3c0a47](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e3c0a47eea6bbb8125fc1fbbcc96a1eac858c435))
+* add `Valgrind` to `software-tools` ([#4825](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4825)) ([a57d8d0](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a57d8d09dd45d2ab6bb059d24605ececc3682ae1))
+* Add Ccache ([#5114](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5114)) ([c1f6d31](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c1f6d31de46d1f8e9be0636a235f762090e5e890))
+* Add CMOS ([#5081](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5081)) ([87d9565](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/87d9565123cfc0ca8132fc8c66a0f4e4d4111438))
+* Add coding terms ([#4891](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4891)) ([9048f5f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9048f5f4d1bf49cea20b0521534e51145a097d83))
+* add coding terms ([#4915](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4915)) ([1bc19a3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/1bc19a3fb7bdda10b1ab319caad1c31cf8defc41))
+* Add cpplint and cpptools ([#5080](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5080)) ([8737676](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/87376769ad5d5a2cc86da8ba80de264ff0174536))
+* Add general terms ([#5117](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5117)) ([5c5a602](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/5c5a602bc71a7958f3868ebd3b1e8482c772aca7))
+* Add GPKG ([#5095](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5095)) ([617634f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/617634f254937f842b76cc41bc6af482aeea0e47))
+* Add LoongArch / Loongson architecture terms to software-terms di… ([#5005](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5005)) ([8c66116](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8c6611667a7ec262a829e92dc1f1710033d311bd))
+* Add Lucene to software-tools.txt ([#4930](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4930)) ([04b9fdb](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/04b9fdbac726a214b1cf697b4843fc5cf07205a1))
+* Add more terms to software/company dictionaries ([#5093](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5093)) ([35393f9](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/35393f921cbf7ee47bb8a027697211c61a76fa1c))
+* Add multilog ([#5035](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5035)) ([aaab104](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/aaab10479bab2be2909308c2689ab1d99565db3a))
+* Add new coding terms to coding-terms.txt ([#4987](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4987)) ([4ce8077](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/4ce8077ca25a41121024c9dd430ad0d284014e55))
+* Add Open* tools ([#5113](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5113)) ([7f6f7ff](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7f6f7ff6a0ffd69e3dfff103b6571c60463f3ab7))
+* add passband ([#4916](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4916)) ([a63b785](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a63b78555d4558bf25541e83b8d2c8a1b7f92b44))
+* Add prepopulate to coding terms ([#5034](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5034)) ([2a93621](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2a93621fb82c60ff119e31ee42f370f7401e1f0b))
+* Add scrollbars to software-terms ([#4842](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4842)) ([1e7a4dc](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/1e7a4dcaeb2936f3ff17956ee7653cdb1c67ebd4))
+* add signal-processing acronyms ([#4917](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4917)) ([ae60acd](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ae60acd243812465eeeafcc986bc6229e1eb1843))
+* add software terms ([#4739](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4739)) ([0c0f942](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/0c0f942cd96b392c0273540c90c556f7e1ef73f3))
+* Add software terms ([#4893](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4893)) ([fa94b2e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/fa94b2ed72fcae3a7e4194915a752b271a0c31fc))
+* Add software tools ([#4894](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4894)) ([91c9dfe](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/91c9dfe4c6050ac7cd4f7acc99ed6ef04639778e))
+* Add timestep ([#5031](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5031)) ([cffc7f4](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/cffc7f42ff468bb49a571f3ee17735f55e4507ca))
+* add words related to software tools and python ([#4834](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4834)) ([7e903d3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7e903d32e6c631b127e72ef78bb8887503767a70))
+* adds aws terms and fixes typos ([#5026](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5026)) ([2c2730b](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2c2730b9cd03ed797ae83002f44b6c45cbcea831))
+* Encorporate more sw dev terms ([#5116](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5116)) ([2a080b7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2a080b78f1cc164d75a897d89d4416fc84138b46))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update software-services.txt ([#4758](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4758)) ([874b309](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/874b309a9fa778829db77a62415e2f494a4e0df5))
+* Workflow Bot -- Build Dictionaries ([#4507](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4507)) ([f1739a7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f1739a7b97a319e19680de5dea4b6790ba40d638))
+* Workflow Bot -- Build Dictionaries ([#4520](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4520)) ([8b2f899](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8b2f89967cf8aceea5e53011b34540b3a70eb254))
+* Workflow Bot -- Build Dictionaries ([#4586](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4586)) ([c7deced](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c7deced68417d00fb325ed190494f7297f62f661))
+* Workflow Bot -- Build Dictionaries ([#4801](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4801)) ([81198ca](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/81198cae03a3ecdb4252326e9fbbe194daa32a9c))
+* Workflow Bot -- Build Dictionaries ([#4840](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4840)) ([3def534](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/3def534b2bdf1aac21d61276cfeb774112808ad0))
+* Workflow Bot -- Build Dictionaries ([#4901](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4901)) ([545c4d2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/545c4d265aa85c3f7a0e7761e29b8542b5f5b2c5))
+* Workflow Bot -- Build Dictionaries ([#4905](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4905)) ([138677d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/138677d3302f967bba1a238a20c94e28043017ae))
+* Workflow Bot -- Build Dictionaries ([#4918](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4918)) ([9cb387f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9cb387f110cb7dd1691397507c6f40ade8c6e63b))
+* Workflow Bot -- Build Dictionaries ([#4920](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4920)) ([625f1ff](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/625f1ff41cc6369a540b1ce81f7c4bc3372efca6))
+* Workflow Bot -- Build Dictionaries ([#4988](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4988)) ([13ce836](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/13ce8367c0236ce8a882d7d93fb8c7b18e8d13af))
+* Workflow Bot -- Build Dictionaries ([#5009](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5009)) ([4b3a78f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/4b3a78f945eae80e87119465c278e5a6cbbfb9fb))
+
 ## [5.1.19](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-software-terms@5.1.18...@cspell/dict-software-terms@5.1.19) (2026-01-03)
 
 

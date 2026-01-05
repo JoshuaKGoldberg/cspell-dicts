@@ -3,6 +3,18 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [6.0.27](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-golang@6.0.26...@cspell/dict-golang@6.0.27) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* add 'logrus' to common Go libraries dictionary ([#4513](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4513)) ([4062ed3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/4062ed3ba2f1f76272ba8fa1a4117a8179d39bab))
+* Add more terms to software/company dictionaries ([#5093](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5093)) ([35393f9](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/35393f921cbf7ee47bb8a027697211c61a76fa1c))
+* Add software terms ([#4893](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4893)) ([fa94b2e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/fa94b2ed72fcae3a7e4194915a752b271a0c31fc))
+* Encorporate more sw dev terms ([#5116](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5116)) ([2a080b7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2a080b78f1cc164d75a897d89d4416fc84138b46))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Workflow Bot -- Build Dictionaries ([#4507](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4507)) ([f1739a7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f1739a7b97a319e19680de5dea4b6790ba40d638))
+
 ## [6.0.26](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-golang@6.0.25...@cspell/dict-golang@6.0.26) (2026-01-03)
 
 

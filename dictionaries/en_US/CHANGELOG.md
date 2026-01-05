@@ -3,6 +3,38 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [4.4.28](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-en_us@4.4.27...@cspell/dict-en_us@4.4.28) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* Add 'operationalize' to additional words list ([#5069](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5069)) ([aa60613](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/aa606133a3e980637719ebeb24e5188982f14000))
+* Add general terms ([#5117](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5117)) ([5c5a602](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/5c5a602bc71a7958f3868ebd3b1e8482c772aca7))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Remove "strate" from the US dict. ([#4872](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4872)) ([5550336](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/55503363f07dd823eb003ba3b1f54bfcee5a8f22))
+* Remove `typw` from the English dictionary ([#4774](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4774)) ([b57f9a2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b57f9a2db71043ffa16f7c895fa8b82f39f5bb78))
+* Workflow Bot -- Build Dictionaries ([#4521](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4521)) ([8c68505](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8c68505f0ccb0f762571485f845cf9476303f57e))
+* Workflow Bot -- Build Dictionaries ([#4599](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4599)) ([a273cbc](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a273cbca8dfc04a9635fe701f2184d56c170eb1d))
+* Workflow Bot -- Build Dictionaries ([#4657](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4657)) ([f1dcc18](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f1dcc18e22e3d06ab438d46205d1b06dc622d5ee))
+* Workflow Bot -- Build Dictionaries ([#4743](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4743)) ([29cf356](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/29cf35675be7ba5160ab2665c9574ac3ded68d05))
+* Workflow Bot -- Build Dictionaries ([#4796](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4796)) ([e86088d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e86088dca03fd5c1452ea7c063414c48e43883b0))
+* Workflow Bot -- Build Dictionaries ([#4867](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4867)) ([09cbc17](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/09cbc170e6b376d6e52e4a57f1cec393a56bec6e))
+* Workflow Bot -- Build Dictionaries ([#4878](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4878)) ([9395555](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9395555b191a632e8ec65a45e775790978f8dbb5))
+* Workflow Bot -- Build Dictionaries ([#4901](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4901)) ([545c4d2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/545c4d265aa85c3f7a0e7761e29b8542b5f5b2c5))
+* Workflow Bot -- Build Dictionaries ([#4920](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4920)) ([625f1ff](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/625f1ff41cc6369a540b1ce81f7c4bc3372efca6))
+* Workflow Bot -- Build Dictionaries ([#4926](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4926)) ([f8ded5e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f8ded5ee85937e215022ef392af8266f9c6adc03))
+* Workflow Bot -- Build Dictionaries ([#5037](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5037)) ([c4b91d1](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c4b91d112eb1e7c772295f4295ed2d26fa8019e0))
+* Workflow Bot -- Build Dictionaries ([#5071](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5071)) ([2a2d04e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2a2d04e1a3bf5dd548fa049e354bb4927252d5ab))
+* Workflow Bot -- Build Dictionaries ([#5123](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5123)) ([7b4a15f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7b4a15ffc7f1ef36a4d3dd320e88c9d12303730d))
+
+
+### Dependencies
+
+* The following workspace dependencies were updated
+  * devDependencies
+    * @cspell/dict-en-shared bumped to 1.0.49
+    * @cspell/aoo-mozilla-en-dict bumped to 1.0.7
+
 ## [4.4.27](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en_us@4.4.26...@cspell/dict-en_us@4.4.27) (2026-01-03)
 
 

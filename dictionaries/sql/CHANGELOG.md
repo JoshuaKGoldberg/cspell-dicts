@@ -3,6 +3,13 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.2.2](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-sql@2.2.1...@cspell/dict-sql@2.2.2) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [2.2.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-sql@2.2.0...@cspell/dict-sql@2.2.1) (2025-07-09)
 
 

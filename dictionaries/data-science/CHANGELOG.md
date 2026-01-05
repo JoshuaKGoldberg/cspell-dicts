@@ -1,5 +1,18 @@
 # Change Log
 
+## [2.0.14](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-data-science@2.0.13...@cspell/dict-data-science@2.0.14) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* add `meshgrid` to `python` and `data-science` ([#4822](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4822)) ([f6bfbc2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f6bfbc21a778be2b4d0d4ab9340317b72d4e1da5))
+* Add argmin ([#5043](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5043)) ([1ec6c6d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/1ec6c6dcc5cd001c193443dfb78cd2b58cc5846c))
+* Add data science terms ([#4892](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4892)) ([3e47967](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/3e4796771da7ecb2595ac424063c03bf4299e716))
+* Add filter names ([#4979](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4979)) ([7fcb770](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/7fcb7700a37070c6957514063302446d6feb8ec0))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Workflow Bot -- Build Dictionaries ([#4901](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4901)) ([545c4d2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/545c4d265aa85c3f7a0e7761e29b8542b5f5b2c5))
+* Workflow Bot -- Build Dictionaries ([#4981](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4981)) ([a336241](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a336241014df59db6a3e2f0442c352fe13983afb))
+
 ## [2.0.13](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-data-science@2.0.12...@cspell/dict-data-science@2.0.13) (2025-12-13)
 
 

@@ -30,6 +30,20 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [3.0.9](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-es-es@3.0.8...@cspell/dict-es-es@3.0.9) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* [es] Add missing Spanish terms ([#4622](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4622)) ([f5b262f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f5b262f8c903417273ba05a413f5453244127860))
+* [es] Add missing Spanish terms ([#4635](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4635)) ([b73814e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b73814e07b4141b7561c37b28bc133e43f32e5b5))
+* [es] Add missing Spanish terms ([#4680](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4680)) ([d0c4d3d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d0c4d3d13e735a0ecc0f381d19b6550431ca2423))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update README.md ([#4660](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+* Workflow Bot -- Build Dictionaries ([#4626](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4626)) ([8ad67e9](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8ad67e97f5b0c44a58d5699eb3c11921b0de9d44))
+* Workflow Bot -- Build Dictionaries ([#4671](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4671)) ([d288a48](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d288a48007dd9301de7bafc27a2e4e2abc4150b4))
+* Workflow Bot -- Build Dictionaries ([#4682](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4682)) ([3f8cf0a](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/3f8cf0a3c71f66075582a6d524da5b8b15ba5502))
+
 ## [3.0.8](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-es-es@3.0.7...@cspell/dict-es-es@3.0.8) (2025-07-21)
 
 

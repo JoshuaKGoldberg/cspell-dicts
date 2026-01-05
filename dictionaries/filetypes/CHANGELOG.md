@@ -3,6 +3,15 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.0.16](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-filetypes@3.0.15...@cspell/dict-filetypes@3.0.16) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* add `icns` to `filetypes` ([#4831](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4831)) ([182bcca](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/182bcca858d3be0c9bed042591aba74f90758b03))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* reduce gdscript dictionary size ([#5053](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5053)) ([8d6ef78](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8d6ef78e94a677ab637647aa20d4fdba8e72fe69))
+
 ## [3.0.15](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-filetypes@3.0.14...@cspell/dict-filetypes@3.0.15) (2025-12-13)
 
 
