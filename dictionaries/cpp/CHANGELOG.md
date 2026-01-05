@@ -3,6 +3,35 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [8.0.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-cpp@7.0.2...@cspell/dict-cpp@8.0.0) (2026-01-05)
+
+
+### ⚠ BREAKING CHANGES
+
+* Separate C++ compound words into their own dictionary ([#5085](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5085))
+
+### Features
+
+* Separate C++ compound words into their own dictionary ([#5085](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5085)) ([d579dd3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d579dd3bcab693b5f6cc39592f01386cb3f2b646))
+
+
+### Updates and Bug Fixes
+
+* Add back some compound words ([#5088](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5088)) ([cb35979](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/cb35979c45b768e7403b803a0b024ac61742e8e9))
+* Add C++ words ([#4886](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4886)) ([8c91d34](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8c91d34f9adf5f104ec14602cb952858d7dcfe54))
+* Add coding terms ([#4891](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4891)) ([9048f5f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9048f5f4d1bf49cea20b0521534e51145a097d83))
+* Add cpplint and cpptools ([#5080](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5080)) ([8737676](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/87376769ad5d5a2cc86da8ba80de264ff0174536))
+* Add Eigen words ([#5010](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5010)) ([604034f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/604034f5e5a880b3d687730bb21fe1744ae419a9))
+* Add more terms to software/company dictionaries ([#5093](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5093)) ([35393f9](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/35393f921cbf7ee47bb8a027697211c61a76fa1c))
+* Add software tools ([#4894](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4894)) ([91c9dfe](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/91c9dfe4c6050ac7cd4f7acc99ed6ef04639778e))
+* Do not allow `remnats` ([#4766](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4766)) ([29eec21](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/29eec217874e33270fda8425358f0aacb20ee207))
+* exclude "consistant" from cpp dictionary  ([#4754](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4754)) ([373a29f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/373a29ff3fba7f676a714a037faface400118be2))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Remove `typw` from the English dictionary ([#4774](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4774)) ([b57f9a2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b57f9a2db71043ffa16f7c895fa8b82f39f5bb78))
+* Workflow Bot -- Build Dictionaries ([#4770](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4770)) ([b6a0831](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b6a0831f0383deafa209ad383575c3188b10d0f2))
+* Workflow Bot -- Build Dictionaries ([#4910](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4910)) ([a309e28](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a309e282de74321ee21e8591b25d8da2267b3e5e))
+* Workflow Bot -- Build Dictionaries ([#5012](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5012)) ([462df0a](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/462df0a66d1a63fe636596e8e69594206cd56e2e))
+
 ## [7.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-cpp@7.0.1...@cspell/dict-cpp@7.0.2) (2025-12-20)
 
 

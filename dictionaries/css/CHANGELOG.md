@@ -22,6 +22,14 @@ See [Conventional Commits](https://conventionalcommits.org) for commit guideline
 
 
 
+## [4.0.20](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-css@4.0.19...@cspell/dict-css@4.0.20) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* Add HTML attribute names to CSS dictionary ([#5068](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5068)) ([5ceffe1](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/5ceffe17391181873ea12228f238d74c16829c86))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [4.0.19](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-css@4.0.18...@cspell/dict-css@4.0.19) (2025-12-17)
 
 

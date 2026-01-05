@@ -3,6 +3,14 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [2.3.3](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-dart@2.3.2...@cspell/dict-dart@2.3.3) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Move compiled files to dict and compress ([#5082](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5082)) ([6f39ecd](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/6f39ecd9e2360ed51afbd6969c2b1b6a36fa3b34))
+
 ## [2.3.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-dart@2.3.1...@cspell/dict-dart@2.3.2) (2025-12-17)
 
 

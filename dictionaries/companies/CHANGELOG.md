@@ -3,6 +3,24 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [3.2.11](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-companies@3.2.10...@cspell/dict-companies@3.2.11) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* [companies] Add missing companies ([#4692](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4692)) ([2c98057](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2c9805723a5a20a7702f3ecdc025007ecfd9f933))
+* Add `Mailchimp` to companies.txt ([#5048](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5048)) ([5ab63f5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/5ab63f54aec36d0644b42fa6625c4c1d4d54f69a))
+* add Asana, Pinterest ([#4859](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4859)) ([1ff80d3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/1ff80d373ef37cad657c4b23e51fff05aea4a43b))
+* Add Lidar companies ([#4885](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4885)) ([d72e98b](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d72e98b84aaa7db4b6f42800bd7bab163149afaa))
+* Add more terms to software/company dictionaries ([#5093](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5093)) ([35393f9](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/35393f921cbf7ee47bb8a027697211c61a76fa1c))
+* Add new companies to companies.txt ([#5042](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5042)) ([27605d7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/27605d746d0d886a71620c43bedce4ebe654773c))
+* Encorporate more sw dev terms ([#5116](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5116)) ([2a080b7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2a080b78f1cc164d75a897d89d4416fc84138b46))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update companies.txt ([#4733](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4733)) ([569f766](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/569f766fcda09fe9a46a0817edd70dd6ca9c79b9))
+* Update companies.txt ([#4747](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4747)) ([ea4b6c7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ea4b6c776b0746d6fc8e1a6a2b09a7a35eff9698))
+* Workflow Bot -- Build Dictionaries ([#4749](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4749)) ([fc46b0f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/fc46b0f1111dc443fa588ba84dde1576d1be661e))
+* Workflow Bot -- Build Dictionaries ([#4901](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4901)) ([545c4d2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/545c4d265aa85c3f7a0e7761e29b8542b5f5b2c5))
+
 ## [3.2.10](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-companies@3.2.9...@cspell/dict-companies@3.2.10) (2026-01-03)
 
 

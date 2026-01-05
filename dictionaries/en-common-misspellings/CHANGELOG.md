@@ -1,5 +1,29 @@
 # Change Log
 
+## [2.2.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.1.11...@cspell/dict-en-common-misspellings@2.2.0) (2026-01-05)
+
+
+### Features
+
+* Add typos from crate-ci ([#4538](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4538)) ([9acc823](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9acc823eb836c106a93843b93982c13043d22a2d))
+
+
+### Updates and Bug Fixes
+
+* Add coding terms ([#4891](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4891)) ([9048f5f](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9048f5f4d1bf49cea20b0521534e51145a097d83))
+* Add misspelling suggestion for `remnat->remnant` ([#4767](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4767)) ([4f8de9c](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/4f8de9cecb1333c9d0426449e7ecad782be88c31))
+* Add more terms to software/company dictionaries ([#5093](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5093)) ([35393f9](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/35393f921cbf7ee47bb8a027697211c61a76fa1c))
+* Add software terms ([#4893](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4893)) ([fa94b2e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/fa94b2ed72fcae3a7e4194915a752b271a0c31fc))
+* Add timestep ([#5031](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5031)) ([cffc7f4](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/cffc7f42ff468bb49a571f3ee17735f55e4507ca))
+* Convert YAML to JSON for speed. ([#4545](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4545)) ([d12dfe6](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d12dfe65ece54a1508533c3aed44ceb6e79af4da))
+* Encorporate more sw dev terms ([#5116](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5116)) ([2a080b7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/2a080b78f1cc164d75a897d89d4416fc84138b46))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Remove `typw` from the English dictionary ([#4774](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4774)) ([b57f9a2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/b57f9a2db71043ffa16f7c895fa8b82f39f5bb78))
+* Workflow Bot -- Build Dictionaries ([#4537](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4537)) ([d961b7b](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d961b7bddf2390d7606681433b4245aa2b660778))
+* Workflow Bot -- Build Dictionaries ([#4599](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4599)) ([a273cbc](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a273cbca8dfc04a9635fe701f2184d56c170eb1d))
+* Workflow Bot -- Build Dictionaries ([#4790](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4790)) ([3864e50](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/3864e508eac5c7fbb3124b54d8acd28985a234af))
+* Workflow Bot -- Build Dictionaries ([#4926](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4926)) ([f8ded5e](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f8ded5ee85937e215022ef392af8266f9c6adc03))
+
 ## [2.1.11](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-common-misspellings@2.1.10...@cspell/dict-en-common-misspellings@2.1.11) (2026-01-03)
 
 

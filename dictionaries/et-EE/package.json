@@ -1,6 +1,6 @@
 {
   "name": "@cspell/dict-et-ee",
-  "version": "3.1.6",
+  "version": "3.1.7",
   "description": "Estonian dictionary for cspell.",
   "private": false,
   "publishConfig": {

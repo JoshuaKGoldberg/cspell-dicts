@@ -1,5 +1,18 @@
 # Change Log
 
+## [1.1.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-en-slang@1.0.2...@cspell/dict-en-slang@1.1.0) (2026-01-05)
+
+
+### Features
+
+* Add English Slang Words ([#4654](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4654)) ([06ea7bc](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/06ea7bc891569be6e95d6927c1d8467f3d63e46a))
+
+
+### Updates and Bug Fixes
+
+* Update README.md ([#4660](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+* Workflow Bot -- Update Dictionaries ([#4665](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4665)) ([065cb7a](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/065cb7afe78c6402a189f3a645ddb97569ac3dc9))
+
 ## [1.0.2](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-en-slang@1.0.1...@cspell/dict-en-slang@1.0.2) (2025-07-19)
 
 
