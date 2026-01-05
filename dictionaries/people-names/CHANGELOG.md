@@ -1,5 +1,23 @@
 # Change Log
 
+## [1.1.17](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-people-names@1.1.16...@cspell/dict-people-names@1.1.17) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* [names] Add some names ([#4634](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4634)) ([c7c2257](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/c7c225704fef9c187314b837b65797cb218f316d))
+* Add Bachstein to names.txt ([#4723](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4723)) ([fccaf37](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/fccaf3706f782b34a2882ee3199636222f3823cc))
+* Add Bjorn to names.txt ([#4721](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4721)) ([426f4e3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/426f4e30e1abe2efe3695a89a177f02f7a1c872d))
+* Add Clarkberg to names.txt ([#4722](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4722)) ([d9797b9](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/d9797b96202526697d342a6cf0a5482d16eef4bb))
+* Add family name Strate ([#4903](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4903)) ([be0b1f7](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/be0b1f7a042949bc7971f6c064ed5fd3e6129958))
+* add more names ([#5100](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5100)) ([f438bb3](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/f438bb3832289c85ce0cf5c82cbac55c7722ce07))
+* add my name to dictionary ([#4605](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4605)) ([63a1745](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/63a1745dd4abc09bb63ee8f3d80c5f2672612829))
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update README.md ([#4660](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+* Workflow Bot -- Build Dictionaries ([#4607](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4607)) ([decec79](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/decec79ddbb8e6782241ede6ee8bbeb9702ab5ab))
+* Workflow Bot -- Build Dictionaries ([#4642](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4642)) ([41a10f4](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/41a10f4a16c6ff2e232ec1afe111a4bc1f88a2b7))
+* Workflow Bot -- Build Dictionaries ([#4905](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4905)) ([138677d](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/138677d3302f967bba1a238a20c94e28043017ae))
+
 ## [1.1.16](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-people-names@1.1.15...@cspell/dict-people-names@1.1.16) (2025-12-20)
 
 

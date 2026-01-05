@@ -1,5 +1,20 @@
 # Change Log
 
+## [1.1.0](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-gdscript@1.0.1...@cspell/dict-gdscript@1.1.0) (2026-01-05)
+
+
+### Features
+
+* add dictionary for the GDScript scripting language ([#5041](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5041)) ([9ebdb50](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/9ebdb508232c49350db842db04f898b5858f49c4))
+
+
+### Updates and Bug Fixes
+
+* add missing getters, setters, and module symbols ([#5052](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5052)) ([0f07502](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/0f07502cdff8d965529731a5cbd322f6f66cfcb3))
+* Reduce dictionary size ([#5057](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5057)) ([a154de2](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/a154de2144cc45da7c210cd9208d667ca22ce041))
+* reduce gdscript dictionary size ([#5053](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5053)) ([8d6ef78](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/8d6ef78e94a677ab637647aa20d4fdba8e72fe69))
+* Workflow Bot -- Update Dictionaries ([#5061](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5061)) ([72e66ae](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/72e66aee48187259f489dc1a930746f4f0303f40))
+
 ## [1.0.1](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-gdscript@1.0.0...@cspell/dict-gdscript@1.0.1) (2025-12-17)
 
 

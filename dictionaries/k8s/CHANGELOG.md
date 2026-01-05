@@ -1,5 +1,12 @@
 # Changelog
 
+## [1.0.13](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-k8s@1.0.12...@cspell/dict-k8s@1.0.13) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+
 ## [1.0.12](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-k8s@1.0.11...@cspell/dict-k8s@1.0.12) (2025-07-09)
 
 

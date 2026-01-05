@@ -1,5 +1,14 @@
 # Change Log
 
+## [1.2.4](https://github.com/JoshuaKGoldberg/cspell-dicts/compare/@cspell/dict-mn-mn@1.2.3...@cspell/dict-mn-mn@1.2.4) (2026-01-05)
+
+
+### Updates and Bug Fixes
+
+* Improve install documentation ([#4640](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4640)) ([ce83729](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/ce837295163125b6ff57494d9de1609edc6204e6))
+* Update README.md ([#4660](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/4660)) ([e0f9c43](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/e0f9c43f2dc0170a118dfe3a5008d3cf017e36ce))
+* Workflow Bot -- Build Dictionaries ([#5030](https://github.com/JoshuaKGoldberg/cspell-dicts/issues/5030)) ([50db2f5](https://github.com/JoshuaKGoldberg/cspell-dicts/commit/50db2f5e5d7c5edba20eef764503aa76a162e090))
+
 ## [1.2.3](https://github.com/streetsidesoftware/cspell-dicts/compare/@cspell/dict-mn-mn@1.2.2...@cspell/dict-mn-mn@1.2.3) (2025-12-13)
 
 
